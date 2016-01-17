@@ -1,7 +1,7 @@
 # config.toml
 # https://github.com/CrimsonRay/slender
 
-baseurl = "http://url-to-your-site.com/"
+baseurl = "http://gijskoot.nl/"
 title = "gijskoot.nl"
 languageCode = "en-US"
 MetaDataFormat = "toml"
@@ -43,7 +43,7 @@ PaginatePath = "/"
     # Social links, must be full URLs (e.g. https://github.com/CrimsonRay/).
     # Remove, comment, or leave blank any field to leave them out.
     # email = "mailto:your-email"
-    github = "url-to-your-github"
+    # github = "url-to-your-github"
     # bitbucket = "url-to-your-bitbucket"
     twitter = "https://twitter.com/Gijs_Koot"
     stackoverflow = "http://stackoverflow.com/users/1303355/gijs"
